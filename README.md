@@ -13,4 +13,4 @@ npm run build   # static site in build/; for a subdirectory: BASE_PATH=/repo-nam
 
 `.github/workflows/deploy.yml` builds with `BASE_PATH=/<repo-name>` and publishes `build/` on
 every push to `main`. In the GitHub repo: Settings → Pages → Source: **GitHub Actions**.
-The site is then served at `https://<github-user>.github.io/<repo-name>/`.
+The site is now served at `https://qiucanrong.github.io/cs1710-milestone6/`.
